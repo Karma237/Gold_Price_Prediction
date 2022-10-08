@@ -1,5 +1,5 @@
 # Gold_Price_Prediction
-# This project is done for CodeClause Data science intern on linkdin
+# This project is done for CodeClause Data science intern on linkedin
 
 Predicting Gold Price using Preprocessing, data modeling and data Visualization
 PreProcessing : 
