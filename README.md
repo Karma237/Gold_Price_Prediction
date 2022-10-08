@@ -2,12 +2,12 @@
 # This project is done for CodeClause Data science intern on linkedin
 
 Predicting Gold Price using Preprocessing, data modeling and data Visualization
-PreProcessing : 
+# PreProcessing : 
         *Pandas* to handle missing values / duplicated values
         *StandardScaler from sklearn* for data Standardization 
-Modeling : 
+# Modeling : 
         Sklearn for Random Forest Regressor and  Matrices, Numpy to measure the model accuracy
-Visualization:  
+# Visualization:  
         Matplotlib.pyplot, Sns and plotting pandas converter
         # Plot target var Annual Change *using lineplot*
         # Linear Relation aka Correlation *using heatmap*
@@ -15,6 +15,6 @@ Visualization:
         # Plot Gold against each feature density using *using pairplot*
         # SLV against gld density *using KDEPLOT*
         # Visualising the Accuracy of Predicted result *using plot*
-IDE: Google Colab
-Language: Python
-Dataset: Kaggle
+# IDE: Google Colab
+# Language: Python
+# Dataset: Kaggle
